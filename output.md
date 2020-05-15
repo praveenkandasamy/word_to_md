@@ -29,4 +29,5 @@ subfolder containing images - / *media*
 ![](.//media/image1.png){width="6.268055555555556in"
 height="0.4027777777777778in"}
 
-3.  
+3.  Go to git and drag and drop the md file and media folder and the
+    content will be in production. Happy days. !!!!!!
